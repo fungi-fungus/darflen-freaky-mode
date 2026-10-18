@@ -1,1 +1,1 @@
-# fungi-fungus.github.io
+# freaky mode userscript
